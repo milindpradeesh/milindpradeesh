@@ -13,12 +13,11 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakethyalamanchili&show_icons=true&theme=radical" alt="Saketh's GitHub Stats" style="margin: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakethyalamanchili&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=milindpradeesh&show_icons=true&theme=radical" alt="Milind's GitHub Stats" style="margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milindpradeesh&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px;">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://streak-stats.demolab.com/?user=sakethyalamanchili&count_private=true&theme=blue-green&title_color=00b3ff" alt="Saketh's Current Streak" style="margin: 10px;">
+    <img src="https://streak-stats.demolab.com/?user=milindpradeesh&count_private=true&theme=blue-green&title_color=00b3ff" alt="Saketh's Current Streak" style="margin: 10px;">
   </div>
-  <img src="https://komarev.com/ghpvc/?username=sakethyalamanchili&color=brightgreen" alt="Profile Views" style="margin: 10px;">
-</div>
+
 
 ---
