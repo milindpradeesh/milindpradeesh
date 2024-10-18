@@ -6,6 +6,10 @@
   </a>
 </h1>
 
+<p align="center">
+<img src="https://media.tenor.com/1XlIX0Cu0FMAAAAi/pump-market.gif" width="278" height="286" alt="a cartoon of a man wearing sunglasses and a necklace holding a green container" style="max-width: 310px; background-color: unset;">
+</p>
+
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
