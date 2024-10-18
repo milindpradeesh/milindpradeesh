@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello!+👋+Welcome+to+my+GitHub+profile.;I'm+Milind+Pradeesh.;Analytics+%7C+Finance+%7C+Tech+Enthusiast.;Let's+collaborate+and+create+something+amazing!"
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello!+👋+Welcome+to+my+GitHub+profile.;I'm+Milind+Pradeesh.;Analytics+%7C+Finance+%7C+Tech+Enthusiast.;Let's+collaborate+and+create+something+Mesmerizing!"
     alt="Typing SVG">
   </a>
 </h1>
@@ -25,5 +25,7 @@
     <img src="https://streak-stats.demolab.com/?user=milindpradeesh&count_private=true&theme=blue-green&title_color=00b3ff" alt="Saketh's Current Streak" style="margin: 10px;">
   </div>
 
+<h2 align="center">💬 Let's Collaborate</h2>
+<p align="center">I’m always eager to connect with like-minded individuals who share a passion for technology and Finance. Whether you're working on an exciting project, looking for a partner to brainstorm ideas with, or just want to chat about the Finance & latest tech trends, feel free to reach out. Let's collaborate and create something mesmerizing together!</p>
 
 
