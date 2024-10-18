@@ -26,6 +26,6 @@
   </div>
 
 <h2 align="center">💬 Let's Collaborate</h2>
-<p align="center">I’m always eager to connect with like-minded individuals who share a passion for technology and Finance. Whether you're working on an exciting project, looking for a partner to brainstorm ideas with, or just want to chat about the Finance & latest tech trends, feel free to reach out. Let's collaborate and create something mesmerizing together!</p>
+<p align="center">I’m always eager to connect with like-minded individuals who share a passion for Technology and Finance. Whether you're working on an exciting project, looking for a partner to brainstorm ideas with, or just want to chat about the Finance & latest tech trends, feel free to reach out. Let's collaborate and create something mesmerizing together!</p>
 
 
