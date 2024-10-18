@@ -1,4 +1,15 @@
 <h1 align="center">Hi 👋, I'm Milind</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello!+👋+Welcome+to+my+GitHub+profile.;I'm+Saketh+Yalamanchili.;Innovator+%7C+Developer+%7C+Tech+Enthusiast.;Exploring+AI/ML+%26+IoT+to+enhance+life+on+Earth.;Let's+collaborate+and+create+something+amazing!"
+    alt="Typing SVG">
+  </a>
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300">
+</p>
+
 <h3 align="center">A Passionate Data Analyst in Realm of Finance</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milindpradeesh" alt="milindpradeesh" /></a> </p>
