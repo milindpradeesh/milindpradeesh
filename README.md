@@ -3,15 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milindpradeesh" alt="milindpradeesh" /></a> </p>
 
-- 🔭 I’m currently working on **Stock Market Investments/Investor Classification**
 
-- 🌱 I’m currently learning **Scikit-Learn and other ML Libraries**
-
-- 👯 I’m looking to collaborate on **Finance oriented ML Projects**
-
-- 🤝 I’m looking for help with **ML Projects in the realm of Finance**
-
-- 💬 Ask me about **Finance, Python, Data Visualization**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
