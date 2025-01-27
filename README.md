@@ -38,6 +38,6 @@
   </div>
 
 <h2 align="center">💬 Let's Collaborate</h2>
-<p align="center">If you’re seeking someone with a unique blend of technical expertise, financial acumen, and a passion for learning, let’s connect! Together, we can solve complex problems, uncover hidden opportunities, and create meaningful value in today’s dynamic business landscape.</p>
+<p align="center"> I love working with like minded people .</p>
 
 
