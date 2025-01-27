@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello!+👋+Welcome+to+my+GitHub+profile.;I'm+Milind+Pradeesh.;Analytics+%7C+Finance+%7C+Marketing."
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello!+👋+Welcome+to+my+GitHub+profile.;I'm+Milind+Pradeesh"
     alt="Typing SVG">
   </a>
 </h1>
@@ -10,14 +10,6 @@
 <img src="https://media.tenor.com/1XlIX0Cu0FMAAAAi/pump-market.gif" width="278" height="286" alt="a cartoon of a man wearing sunglasses and a necklace holding a green container" style="max-width: 310px; background-color: unset;">
 </p>
 
-
-<h2 align="center">🚀 About Me</h2>
-<p align="center">
-  Hello! I'm Milind Pradeesh,I am an emerging polymath with a passion for problem-solving, analysis, creativity, and collaboration, combined with a keen understanding of technology and innovation.
-
-Currently, I am pursuing an MBA in Financial Management, honing my expertise in financial analysis, business strategy, and data analytics. I am particularly passionate about harnessing the power of data—often dubbed the “new oil”—to assess business performance, identify strengths and weaknesses, and inform strategic decisions.
-
-</p>
 
 <h2 align="center">🛠 Skills</h2>
 <p align="center">
