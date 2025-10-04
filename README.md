@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saketh%20Yalamanchili&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Innovating%20for%20a%20Better%20Tomorrow&descAlignY=52&descSize=20" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Milind%Pradeesh&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Innovating%20for%20a%20Better%20Tomorrow&descAlignY=52&descSize=20" width="100%">
 
   <a href="https://github.com/milindpradeesh">
     <img src="https://komarev.com/ghpvc/?username=milindpradeesh&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views" />
