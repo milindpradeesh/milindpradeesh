@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Milind%Pradeesh&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Innovating%20for%20a%20Better%20Tomorrow&descAlignY=52&descSize=20" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Milind%Pradeesh&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Turning%20data%20a%into%Money&descAlignY=52&descSize=20" width="100%">
 
   <a href="https://github.com/milindpradeesh">
     <img src="https://komarev.com/ghpvc/?username=milindpradeesh&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views" />
@@ -10,15 +10,14 @@
 
 ### 🎬 Welcome to My Financial Analysis Hub
 
-> Finance in code: sometimes it adds up, sometimes it teaches me.
 
 Hey there, I’m **Milind Pradeesh** – a financial analyst by training, a technologist by passion, and an entrepreneur at heart.
 
 🚀 Where numbers flow like poetry, code breathes life into ideas, and ventures rise from lines of thought.
 
-🎓 **MBA-Finance** @ [IGNOU] , Currently in my last semester of my MBA in Finance.
+🎓 **MBA-Finance** Currently in my last semester of my MBA in Finance.
 
-💼 **Experience** – Market Research Analyst @ [TSMT Consulting Pvt LTD]
+💼 **Experience** – Market Research Analyst 
 
 ---
 
