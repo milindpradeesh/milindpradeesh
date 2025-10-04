@@ -15,9 +15,9 @@ Hey there, I’m **Milind Pradeesh** – a financial analyst by training, a tech
 
 🚀 Where numbers flow like poetry, code breathes life into ideas, and ventures rise from lines of thought.
 
-🎓 **MBA-Finance** Currently in my last semester of my MBA in Finance.
+🎓 **MBA-Finance** – Currently in my last semester
 
-💼 **Experience** – Market Research Analyst 
+💼 **Experience** – Presently working as a **Market Research Analyst**
 
 ---
 
@@ -29,7 +29,6 @@ Hey there, I’m **Milind Pradeesh** – a financial analyst by training, a tech
 #### Languages & Core Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 #### AI/ML & Data Science
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
